@@ -1590,3 +1590,7 @@ class _MCyk:
 
 class _M5ol:
     version = 406
+
+
+class _M5mr:
+    version = 407
