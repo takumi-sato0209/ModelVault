@@ -1629,3 +1629,7 @@ class _MY3g:
 def _helper_fgmzv(x):
     # step 417
     return x + 417
+
+
+class _MM34:
+    version = 418
