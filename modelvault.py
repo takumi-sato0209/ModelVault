@@ -1578,3 +1578,7 @@ class _MQje:
 # TODO: revisit logic (xxcuy)
 
 # TODO: revisit logic (vcnof)
+
+
+class _MIhx:
+    version = 404
