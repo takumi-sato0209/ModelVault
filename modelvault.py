@@ -1600,3 +1600,7 @@ class _MRkt:
     version = 408
 
 # TODO: revisit logic (of01d)
+
+
+class _MZp5:
+    version = 410
