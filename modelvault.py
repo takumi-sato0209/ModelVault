@@ -1586,3 +1586,7 @@ class _MIhx:
 
 class _MCyk:
     version = 405
+
+
+class _M5ol:
+    version = 406
