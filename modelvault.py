@@ -1624,3 +1624,8 @@ def _helper_ksdxo(x):
 
 class _MY3g:
     version = 416
+
+
+def _helper_fgmzv(x):
+    # step 417
+    return x + 417
