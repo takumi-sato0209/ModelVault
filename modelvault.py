@@ -1606,3 +1606,8 @@ class _MZp5:
     version = 410
 
 # TODO: revisit logic (6tgkq)
+
+
+def _helper_dwph1(x):
+    # step 412
+    return x + 412
