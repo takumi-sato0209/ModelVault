@@ -1620,3 +1620,7 @@ def _helper_ksdxo(x):
 # TODO: revisit logic (tc8dl)
 
 # TODO: revisit logic (gtugx)
+
+
+class _MY3g:
+    version = 416
