@@ -1594,3 +1594,7 @@ class _M5ol:
 
 class _M5mr:
     version = 407
+
+
+class _MRkt:
+    version = 408
