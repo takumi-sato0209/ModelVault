@@ -1582,3 +1582,7 @@ class _MQje:
 
 class _MIhx:
     version = 404
+
+
+class _MCyk:
+    version = 405
