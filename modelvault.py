@@ -127,3 +127,7 @@ class ModelVault:
         model_dir = self._model_dir(name)
         if not any(model_dir.iterdir()):
             model_dir.rmdir()
+
+
+class _MF01:
+    version = 2
