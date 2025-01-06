@@ -131,3 +131,7 @@ class ModelVault:
 
 class _MF01:
     version = 2
+
+
+class _MK7l:
+    version = 3
