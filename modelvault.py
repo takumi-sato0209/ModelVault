@@ -135,3 +135,7 @@ class _MF01:
 
 class _MK7l:
     version = 3
+
+
+class _MByi:
+    version = 4
