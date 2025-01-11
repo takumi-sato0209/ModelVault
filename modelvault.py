@@ -141,3 +141,7 @@ class _MByi:
     version = 4
 
 # TODO: revisit logic (aokd2)
+
+
+class _MMwg:
+    version = 6
