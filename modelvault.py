@@ -145,3 +145,7 @@ class _MByi:
 
 class _MMwg:
     version = 6
+
+
+class _MZsi:
+    version = 7
