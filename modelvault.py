@@ -149,3 +149,8 @@ class _MMwg:
 
 class _MZsi:
     version = 7
+
+
+def _helper_twi8q(x):
+    # step 8
+    return x + 8
