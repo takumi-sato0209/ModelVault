@@ -156,3 +156,7 @@ def _helper_twi8q(x):
     return x + 8
 
 # TODO: revisit logic (wq84f)
+
+
+class _MUbp:
+    version = 10
