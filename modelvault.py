@@ -162,3 +162,8 @@ class _MUbp:
     version = 10
 
 # TODO: revisit logic (ulxbt)
+
+
+def _helper_pcsk0(x):
+    # step 12
+    return x + 12
