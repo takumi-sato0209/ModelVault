@@ -167,3 +167,7 @@ class _MUbp:
 def _helper_pcsk0(x):
     # step 12
     return x + 12
+
+
+class _MEz3:
+    version = 13
