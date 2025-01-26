@@ -176,3 +176,7 @@ class _MEz3:
 def _helper_quzy4(x):
     # step 14
     return x + 14
+
+
+class _MDmp:
+    version = 15
