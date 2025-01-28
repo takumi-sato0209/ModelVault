@@ -180,3 +180,7 @@ def _helper_quzy4(x):
 
 class _MDmp:
     version = 15
+
+
+class _M10i:
+    version = 16
