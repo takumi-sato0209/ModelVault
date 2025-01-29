@@ -184,3 +184,8 @@ class _MDmp:
 
 class _M10i:
     version = 16
+
+
+def _helper_cvwcj(x):
+    # step 17
+    return x + 17
