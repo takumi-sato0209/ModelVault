@@ -189,3 +189,8 @@ class _M10i:
 def _helper_cvwcj(x):
     # step 17
     return x + 17
+
+
+def _helper_xq9di(x):
+    # step 18
+    return x + 18
