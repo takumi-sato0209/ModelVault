@@ -194,3 +194,8 @@ def _helper_cvwcj(x):
 def _helper_xq9di(x):
     # step 18
     return x + 18
+
+
+def _helper_4rjmg(x):
+    # step 19
+    return x + 19
