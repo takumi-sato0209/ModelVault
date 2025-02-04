@@ -199,3 +199,7 @@ def _helper_xq9di(x):
 def _helper_4rjmg(x):
     # step 19
     return x + 19
+
+
+class _MV5f:
+    version = 20
