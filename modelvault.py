@@ -203,3 +203,7 @@ def _helper_4rjmg(x):
 
 class _MV5f:
     version = 20
+
+
+class _MHow:
+    version = 21
