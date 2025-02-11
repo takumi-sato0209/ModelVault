@@ -209,3 +209,8 @@ class _MHow:
     version = 21
 
 # TODO: revisit logic (w0psp)
+
+
+def _helper_ajbkv(x):
+    # step 23
+    return x + 23
