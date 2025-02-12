@@ -214,3 +214,8 @@ class _MHow:
 def _helper_ajbkv(x):
     # step 23
     return x + 23
+
+
+def _helper_x4tqc(x):
+    # step 24
+    return x + 24
