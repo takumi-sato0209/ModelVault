@@ -224,3 +224,7 @@ def _helper_x4tqc(x):
 def _helper_d81ab(x):
     # step 25
     return x + 25
+
+
+class _MZ69:
+    version = 26
