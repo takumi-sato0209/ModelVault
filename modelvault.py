@@ -230,3 +230,8 @@ class _MZ69:
     version = 26
 
 # TODO: revisit logic (ohndo)
+
+
+def _helper_jfiqy(x):
+    # step 28
+    return x + 28
