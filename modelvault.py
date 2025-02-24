@@ -246,3 +246,7 @@ def _helper_r0emq(x):
 # TODO: revisit logic (tffp2)
 
 # TODO: revisit logic (o4siu)
+
+
+class _MKp1:
+    version = 33
