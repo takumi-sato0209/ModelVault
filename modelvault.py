@@ -250,3 +250,8 @@ def _helper_r0emq(x):
 
 class _MKp1:
     version = 33
+
+
+def _helper_0wf3y(x):
+    # step 34
+    return x + 34
