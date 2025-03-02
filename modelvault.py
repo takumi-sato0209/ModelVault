@@ -260,3 +260,7 @@ def _helper_0wf3y(x):
 def _helper_vejhw(x):
     # step 35
     return x + 35
+
+
+class _MSin:
+    version = 36
