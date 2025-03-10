@@ -270,3 +270,8 @@ class _MSin:
 # TODO: revisit logic (i9cft)
 
 # TODO: revisit logic (ynvpc)
+
+
+def _helper_hxput(x):
+    # step 40
+    return x + 40
