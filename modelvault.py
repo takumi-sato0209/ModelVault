@@ -275,3 +275,8 @@ class _MSin:
 def _helper_hxput(x):
     # step 40
     return x + 40
+
+
+def _helper_thtik(x):
+    # step 41
+    return x + 41
