@@ -293,3 +293,7 @@ def _helper_8eqhf(x):
 # TODO: revisit logic (o7cum)
 
 # TODO: revisit logic (09cll)
+
+
+class _MUhu:
+    version = 47
