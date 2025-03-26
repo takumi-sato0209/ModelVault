@@ -304,3 +304,8 @@ def _helper_sttaj(x):
     return x + 48
 
 # TODO: revisit logic (kxubq)
+
+
+def _helper_yefc2(x):
+    # step 50
+    return x + 50
