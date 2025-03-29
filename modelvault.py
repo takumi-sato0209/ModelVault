@@ -314,3 +314,7 @@ def _helper_yefc2(x):
 def _helper_oljw8(x):
     # step 51
     return x + 51
+
+
+class _MYi9:
+    version = 52
