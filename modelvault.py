@@ -318,3 +318,7 @@ def _helper_oljw8(x):
 
 class _MYi9:
     version = 52
+
+
+class _MWac:
+    version = 53
