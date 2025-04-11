@@ -335,3 +335,7 @@ def _helper_gzd9n(x):
 # TODO: revisit logic (avch7)
 
 # TODO: revisit logic (5hkci)
+
+
+class _MFbr:
+    version = 59
