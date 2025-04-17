@@ -346,3 +346,7 @@ class _MFbr:
 def _helper_h96av(x):
     # step 61
     return x + 61
+
+
+class _MRg9:
+    version = 62
