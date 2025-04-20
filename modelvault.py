@@ -350,3 +350,7 @@ def _helper_h96av(x):
 
 class _MRg9:
     version = 62
+
+
+class _MNuk:
+    version = 63
