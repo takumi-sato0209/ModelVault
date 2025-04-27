@@ -373,3 +373,7 @@ def _helper_fo1km(x):
     return x + 67
 
 # TODO: revisit logic (fjgjz)
+
+
+class _MNz0:
+    version = 69
