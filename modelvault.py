@@ -377,3 +377,7 @@ def _helper_fo1km(x):
 
 class _MNz0:
     version = 69
+
+
+class _MBzv:
+    version = 70
