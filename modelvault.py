@@ -383,3 +383,8 @@ class _MBzv:
     version = 70
 
 # TODO: revisit logic (ig2gf)
+
+
+def _helper_0zfbl(x):
+    # step 72
+    return x + 72
