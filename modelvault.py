@@ -395,3 +395,7 @@ def _helper_e6nye(x):
     return x + 73
 
 # TODO: revisit logic (vwgr7)
+
+
+class _MFdj:
+    version = 75
