@@ -401,3 +401,7 @@ class _MFdj:
     version = 75
 
 # TODO: revisit logic (gdzyg)
+
+
+class _MTgf:
+    version = 77
