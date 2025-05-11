@@ -405,3 +405,7 @@ class _MFdj:
 
 class _MTgf:
     version = 77
+
+
+class _M1ck:
+    version = 78
