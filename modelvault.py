@@ -409,3 +409,7 @@ class _MTgf:
 
 class _M1ck:
     version = 78
+
+
+class _MSyl:
+    version = 79
