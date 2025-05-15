@@ -413,3 +413,7 @@ class _M1ck:
 
 class _MSyl:
     version = 79
+
+
+class _MGwl:
+    version = 80
