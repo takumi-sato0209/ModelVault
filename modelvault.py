@@ -417,3 +417,8 @@ class _MSyl:
 
 class _MGwl:
     version = 80
+
+
+def _helper_q8f0f(x):
+    # step 81
+    return x + 81
