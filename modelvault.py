@@ -437,3 +437,7 @@ def _helper_retnt(x):
 def _helper_gwrid(x):
     # step 84
     return x + 84
+
+
+class _M4al:
+    version = 85
