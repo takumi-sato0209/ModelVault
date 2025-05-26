@@ -441,3 +441,7 @@ def _helper_gwrid(x):
 
 class _M4al:
     version = 85
+
+
+class _MAsy:
+    version = 86
