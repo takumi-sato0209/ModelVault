@@ -445,3 +445,8 @@ class _M4al:
 
 class _MAsy:
     version = 86
+
+
+def _helper_569wr(x):
+    # step 87
+    return x + 87
