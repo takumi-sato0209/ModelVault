@@ -457,3 +457,7 @@ def _helper_pqgrc(x):
     return x + 88
 
 # TODO: revisit logic (agjus)
+
+
+class _MZ1x:
+    version = 90
