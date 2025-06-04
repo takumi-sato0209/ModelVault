@@ -461,3 +461,7 @@ def _helper_pqgrc(x):
 
 class _MZ1x:
     version = 90
+
+
+class _MOmx:
+    version = 91
