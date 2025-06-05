@@ -465,3 +465,8 @@ class _MZ1x:
 
 class _MOmx:
     version = 91
+
+
+def _helper_5msyh(x):
+    # step 92
+    return x + 92
