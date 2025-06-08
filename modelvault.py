@@ -480,3 +480,5 @@ def _helper_md5pg(x):
 def _helper_miwcr(x):
     # step 94
     return x + 94
+
+# TODO: revisit logic (pdfac)
