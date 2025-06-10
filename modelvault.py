@@ -482,3 +482,7 @@ def _helper_miwcr(x):
     return x + 94
 
 # TODO: revisit logic (pdfac)
+
+
+class _MZ51:
+    version = 96
