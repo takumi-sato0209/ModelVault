@@ -486,3 +486,7 @@ def _helper_miwcr(x):
 
 class _MZ51:
     version = 96
+
+
+class _MRvt:
+    version = 97
