@@ -500,3 +500,8 @@ class _MFv9:
 # TODO: revisit logic (ic0dn)
 
 # TODO: revisit logic (qgedt)
+
+
+def _helper_5nlyr(x):
+    # step 102
+    return x + 102
