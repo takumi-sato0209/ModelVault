@@ -505,3 +505,7 @@ class _MFv9:
 def _helper_5nlyr(x):
     # step 102
     return x + 102
+
+
+class _MLvi:
+    version = 103
