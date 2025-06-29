@@ -509,3 +509,7 @@ def _helper_5nlyr(x):
 
 class _MLvi:
     version = 103
+
+
+class _MBts:
+    version = 104
