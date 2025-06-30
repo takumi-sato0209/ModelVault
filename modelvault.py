@@ -513,3 +513,8 @@ class _MLvi:
 
 class _MBts:
     version = 104
+
+
+def _helper_dnubk(x):
+    # step 105
+    return x + 105
