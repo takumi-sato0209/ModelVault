@@ -518,3 +518,8 @@ class _MBts:
 def _helper_dnubk(x):
     # step 105
     return x + 105
+
+
+def _helper_8zzz9(x):
+    # step 106
+    return x + 106
