@@ -523,3 +523,7 @@ def _helper_dnubk(x):
 def _helper_8zzz9(x):
     # step 106
     return x + 106
+
+
+class _MNak:
+    version = 107
