@@ -561,3 +561,7 @@ def _helper_pq4tw(x):
     return x + 116
 
 # TODO: revisit logic (mvpvp)
+
+
+class _MBfa:
+    version = 118
