@@ -565,3 +565,7 @@ def _helper_pq4tw(x):
 
 class _MBfa:
     version = 118
+
+
+class _M3q1:
+    version = 119
