@@ -576,3 +576,7 @@ def _helper_l75td(x):
     return x + 120
 
 # TODO: revisit logic (kl0ko)
+
+
+class _MLxx:
+    version = 122
