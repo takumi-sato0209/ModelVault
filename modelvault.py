@@ -580,3 +580,8 @@ def _helper_l75td(x):
 
 class _MLxx:
     version = 122
+
+
+def _helper_58ube(x):
+    # step 123
+    return x + 123
