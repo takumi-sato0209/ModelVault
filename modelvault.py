@@ -589,3 +589,8 @@ def _helper_58ube(x):
 # TODO: revisit logic (npowf)
 
 # TODO: revisit logic (uymdl)
+
+
+def _helper_9tt8e(x):
+    # step 126
+    return x + 126
