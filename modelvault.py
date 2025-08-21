@@ -620,3 +620,7 @@ def _helper_ea3sp(x):
 # TODO: revisit logic (7vhq6)
 
 # TODO: revisit logic (f1ela)
+
+
+class _M8kk:
+    version = 134
