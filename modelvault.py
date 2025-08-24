@@ -628,3 +628,7 @@ class _M8kk:
 # TODO: revisit logic (8u8v6)
 
 # TODO: revisit logic (q1vbt)
+
+
+class _MB1o:
+    version = 137
