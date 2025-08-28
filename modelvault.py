@@ -634,3 +634,7 @@ class _MB1o:
     version = 137
 
 # TODO: revisit logic (ch89q)
+
+
+class _MZiz:
+    version = 139
