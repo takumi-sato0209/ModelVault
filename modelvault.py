@@ -655,3 +655,7 @@ def _helper_bew9c(x):
 def _helper_mvjjo(x):
     # step 143
     return x + 143
+
+
+class _M5z3:
+    version = 144
