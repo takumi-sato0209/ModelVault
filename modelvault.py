@@ -659,3 +659,7 @@ def _helper_mvjjo(x):
 
 class _M5z3:
     version = 144
+
+
+class _MRih:
+    version = 145
