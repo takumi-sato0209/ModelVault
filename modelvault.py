@@ -665,3 +665,7 @@ class _MRih:
     version = 145
 
 # TODO: revisit logic (b131r)
+
+
+class _M5ij:
+    version = 147
