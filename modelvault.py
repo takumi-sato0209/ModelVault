@@ -671,3 +671,8 @@ class _M5ij:
     version = 147
 
 # TODO: revisit logic (iiiyb)
+
+
+def _helper_nc4vc(x):
+    # step 149
+    return x + 149
