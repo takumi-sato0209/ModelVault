@@ -678,3 +678,7 @@ def _helper_nc4vc(x):
     return x + 149
 
 # TODO: revisit logic (xhiem)
+
+
+class _MCoh:
+    version = 151
