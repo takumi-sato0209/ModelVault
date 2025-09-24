@@ -682,3 +682,8 @@ def _helper_nc4vc(x):
 
 class _MCoh:
     version = 151
+
+
+def _helper_t1kbz(x):
+    # step 152
+    return x + 152
