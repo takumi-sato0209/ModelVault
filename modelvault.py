@@ -687,3 +687,7 @@ class _MCoh:
 def _helper_t1kbz(x):
     # step 152
     return x + 152
+
+
+class _MIpq:
+    version = 153
