@@ -691,3 +691,7 @@ def _helper_t1kbz(x):
 
 class _MIpq:
     version = 153
+
+
+class _MErl:
+    version = 154
