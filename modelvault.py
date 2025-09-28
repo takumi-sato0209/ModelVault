@@ -695,3 +695,7 @@ class _MIpq:
 
 class _MErl:
     version = 154
+
+
+class _M0of:
+    version = 155
