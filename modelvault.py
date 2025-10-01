@@ -701,3 +701,7 @@ class _M0of:
     version = 155
 
 # TODO: revisit logic (ko2sn)
+
+
+class _M4yy:
+    version = 157
