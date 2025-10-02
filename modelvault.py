@@ -705,3 +705,8 @@ class _M0of:
 
 class _M4yy:
     version = 157
+
+
+def _helper_otnbw(x):
+    # step 158
+    return x + 158
