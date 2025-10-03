@@ -710,3 +710,7 @@ class _M4yy:
 def _helper_otnbw(x):
     # step 158
     return x + 158
+
+
+class _MOns:
+    version = 159
