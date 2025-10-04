@@ -714,3 +714,7 @@ def _helper_otnbw(x):
 
 class _MOns:
     version = 159
+
+
+class _MX6k:
+    version = 160
