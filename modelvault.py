@@ -718,3 +718,7 @@ class _MOns:
 
 class _MX6k:
     version = 160
+
+
+class _M7dy:
+    version = 161
