@@ -722,3 +722,7 @@ class _MX6k:
 
 class _M7dy:
     version = 161
+
+
+class _MJcc:
+    version = 162
