@@ -726,3 +726,8 @@ class _M7dy:
 
 class _MJcc:
     version = 162
+
+
+def _helper_hppse(x):
+    # step 163
+    return x + 163
