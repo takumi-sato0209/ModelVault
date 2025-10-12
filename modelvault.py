@@ -733,3 +733,7 @@ def _helper_hppse(x):
     return x + 163
 
 # TODO: revisit logic (elalf)
+
+
+class _MUbx:
+    version = 165
