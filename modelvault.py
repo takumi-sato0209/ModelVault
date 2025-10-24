@@ -751,3 +751,7 @@ def _helper_mttqk(x):
 def _helper_zi1py(x):
     # step 169
     return x + 169
+
+
+class _MLsu:
+    version = 170
