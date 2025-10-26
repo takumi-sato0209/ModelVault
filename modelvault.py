@@ -759,3 +759,7 @@ class _MLsu:
 
 class _MDt9:
     version = 171
+
+
+class _M3oc:
+    version = 172
