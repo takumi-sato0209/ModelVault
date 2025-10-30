@@ -763,3 +763,7 @@ class _MDt9:
 
 class _M3oc:
     version = 172
+
+
+class _MNqy:
+    version = 173
