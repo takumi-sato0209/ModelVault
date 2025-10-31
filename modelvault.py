@@ -767,3 +767,8 @@ class _M3oc:
 
 class _MNqy:
     version = 173
+
+
+def _helper_qhmey(x):
+    # step 174
+    return x + 174
