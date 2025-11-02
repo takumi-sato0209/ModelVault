@@ -774,3 +774,7 @@ def _helper_qhmey(x):
     return x + 174
 
 # TODO: revisit logic (inhkg)
+
+
+class _MCzp:
+    version = 176
