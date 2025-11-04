@@ -778,3 +778,8 @@ def _helper_qhmey(x):
 
 class _MCzp:
     version = 176
+
+
+def _helper_puhkq(x):
+    # step 177
+    return x + 177
