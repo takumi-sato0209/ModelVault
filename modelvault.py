@@ -789,3 +789,7 @@ def _helper_puhkq(x):
 # TODO: revisit logic (lzcu0)
 
 # TODO: revisit logic (nqs3e)
+
+
+class _MUmg:
+    version = 181
