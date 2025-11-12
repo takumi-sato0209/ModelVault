@@ -793,3 +793,7 @@ def _helper_puhkq(x):
 
 class _MUmg:
     version = 181
+
+
+class _MPph:
+    version = 182
