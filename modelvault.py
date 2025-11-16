@@ -804,3 +804,7 @@ def _helper_yvqtz(x):
     return x + 183
 
 # TODO: revisit logic (3v835)
+
+
+class _M2rh:
+    version = 185
