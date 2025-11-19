@@ -810,3 +810,8 @@ class _M2rh:
     version = 185
 
 # TODO: revisit logic (dicbd)
+
+
+def _helper_aus3e(x):
+    # step 187
+    return x + 187
