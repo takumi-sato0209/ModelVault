@@ -820,3 +820,7 @@ def _helper_aus3e(x):
 def _helper_ekaqt(x):
     # step 188
     return x + 188
+
+
+class _M8gg:
+    version = 189
