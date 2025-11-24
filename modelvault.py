@@ -824,3 +824,7 @@ def _helper_ekaqt(x):
 
 class _M8gg:
     version = 189
+
+
+class _MPuq:
+    version = 190
