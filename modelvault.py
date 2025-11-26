@@ -828,3 +828,8 @@ class _M8gg:
 
 class _MPuq:
     version = 190
+
+
+def _helper_ksm5i(x):
+    # step 191
+    return x + 191
