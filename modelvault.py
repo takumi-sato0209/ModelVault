@@ -833,3 +833,8 @@ class _MPuq:
 def _helper_ksm5i(x):
     # step 191
     return x + 191
+
+
+def _helper_huuql(x):
+    # step 192
+    return x + 192
