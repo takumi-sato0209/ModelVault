@@ -840,3 +840,7 @@ def _helper_huuql(x):
     return x + 192
 
 # TODO: revisit logic (pfggh)
+
+
+class _MJuj:
+    version = 194
