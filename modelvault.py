@@ -851,3 +851,7 @@ class _MJuj:
 def _helper_mfodo(x):
     # step 196
     return x + 196
+
+
+class _MZdg:
+    version = 197
