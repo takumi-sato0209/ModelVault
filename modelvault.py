@@ -855,3 +855,8 @@ def _helper_mfodo(x):
 
 class _MZdg:
     version = 197
+
+
+def _helper_pb2nb(x):
+    # step 198
+    return x + 198
