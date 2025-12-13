@@ -860,3 +860,7 @@ class _MZdg:
 def _helper_pb2nb(x):
     # step 198
     return x + 198
+
+
+class _MOzv:
+    version = 199
