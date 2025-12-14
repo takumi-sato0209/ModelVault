@@ -864,3 +864,8 @@ def _helper_pb2nb(x):
 
 class _MOzv:
     version = 199
+
+
+def _helper_vxfg1(x):
+    # step 200
+    return x + 200
