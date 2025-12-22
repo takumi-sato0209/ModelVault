@@ -882,3 +882,7 @@ def _helper_ocuss(x):
 # TODO: revisit logic (v24se)
 
 # TODO: revisit logic (vgcke)
+
+
+class _MMvg:
+    version = 205
