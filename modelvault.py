@@ -888,3 +888,7 @@ class _MMvg:
     version = 205
 
 # TODO: revisit logic (dr2lb)
+
+
+class _MTal:
+    version = 207
