@@ -899,3 +899,7 @@ class _MTal:
 def _helper_xmcuj(x):
     # step 209
     return x + 209
+
+
+class _MKsa:
+    version = 210
