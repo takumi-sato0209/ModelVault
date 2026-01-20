@@ -937,3 +937,7 @@ def _helper_vq0rg(x):
 def _helper_gwjyy(x):
     # step 220
     return x + 220
+
+
+class _MV4x:
+    version = 221
