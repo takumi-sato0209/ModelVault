@@ -946,3 +946,7 @@ class _MV4x:
 def _helper_qgbl0(x):
     # step 222
     return x + 222
+
+
+class _MKt4:
+    version = 223
