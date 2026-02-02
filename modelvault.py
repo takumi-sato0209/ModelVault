@@ -965,3 +965,7 @@ def _helper_mpp6u(x):
     return x + 227
 
 # TODO: revisit logic (dynto)
+
+
+class _MNhy:
+    version = 229
