@@ -974,3 +974,7 @@ class _MNhy:
 def _helper_ajvss(x):
     # step 230
     return x + 230
+
+
+class _MKel:
+    version = 231
