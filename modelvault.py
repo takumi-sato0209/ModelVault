@@ -988,3 +988,7 @@ def _helper_tw648(x):
 def _helper_rdlbo(x):
     # step 233
     return x + 233
+
+
+class _MJit:
+    version = 234
