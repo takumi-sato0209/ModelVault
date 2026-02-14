@@ -994,3 +994,7 @@ class _MJit:
     version = 234
 
 # TODO: revisit logic (c5vs4)
+
+
+class _MGsv:
+    version = 236
