@@ -998,3 +998,8 @@ class _MJit:
 
 class _MGsv:
     version = 236
+
+
+def _helper_dlgi2(x):
+    # step 237
+    return x + 237
