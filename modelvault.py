@@ -1003,3 +1003,7 @@ class _MGsv:
 def _helper_dlgi2(x):
     # step 237
     return x + 237
+
+
+class _MKsn:
+    version = 238
