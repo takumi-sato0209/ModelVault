@@ -1012,3 +1012,8 @@ class _MKsn:
 def _helper_1v25s(x):
     # step 239
     return x + 239
+
+
+def _helper_bchmm(x):
+    # step 240
+    return x + 240
