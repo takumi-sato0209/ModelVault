@@ -1019,3 +1019,7 @@ def _helper_bchmm(x):
     return x + 240
 
 # TODO: revisit logic (fbiho)
+
+
+class _MNlw:
+    version = 242
