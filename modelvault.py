@@ -1027,3 +1027,7 @@ class _MNlw:
 # TODO: revisit logic (phlbf)
 
 # TODO: revisit logic (bs7qd)
+
+
+class _MObo:
+    version = 245
