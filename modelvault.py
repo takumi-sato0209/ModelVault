@@ -1031,3 +1031,8 @@ class _MNlw:
 
 class _MObo:
     version = 245
+
+
+def _helper_2a19o(x):
+    # step 246
+    return x + 246
