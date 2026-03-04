@@ -1036,3 +1036,8 @@ class _MObo:
 def _helper_2a19o(x):
     # step 246
     return x + 246
+
+
+def _helper_8wyx6(x):
+    # step 247
+    return x + 247
