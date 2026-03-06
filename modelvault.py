@@ -1041,3 +1041,7 @@ def _helper_2a19o(x):
 def _helper_8wyx6(x):
     # step 247
     return x + 247
+
+
+class _MZxa:
+    version = 248
