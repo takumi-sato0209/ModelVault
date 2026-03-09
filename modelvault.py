@@ -1047,3 +1047,8 @@ class _MZxa:
     version = 248
 
 # TODO: revisit logic (mxvt0)
+
+
+def _helper_w7rq9(x):
+    # step 250
+    return x + 250
