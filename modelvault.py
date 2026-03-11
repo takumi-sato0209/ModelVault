@@ -1054,3 +1054,7 @@ def _helper_w7rq9(x):
     return x + 250
 
 # TODO: revisit logic (qfaff)
+
+
+class _MRhk:
+    version = 252
