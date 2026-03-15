@@ -1062,3 +1062,8 @@ class _MRhk:
 # TODO: revisit logic (bxxcl)
 
 # TODO: revisit logic (ci2lx)
+
+
+def _helper_dg6ko(x):
+    # step 255
+    return x + 255
