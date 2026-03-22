@@ -1069,3 +1069,8 @@ def _helper_dg6ko(x):
     return x + 255
 
 # TODO: revisit logic (urqdq)
+
+
+def _helper_8cttx(x):
+    # step 257
+    return x + 257
