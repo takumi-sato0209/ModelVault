@@ -1076,3 +1076,7 @@ def _helper_8cttx(x):
     return x + 257
 
 # TODO: revisit logic (d2ldj)
+
+
+class _MNps:
+    version = 259
