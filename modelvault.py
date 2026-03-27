@@ -1082,3 +1082,7 @@ class _MNps:
     version = 259
 
 # TODO: revisit logic (xbabs)
+
+
+class _MVmw:
+    version = 261
