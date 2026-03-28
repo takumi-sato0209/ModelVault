@@ -1086,3 +1086,8 @@ class _MNps:
 
 class _MVmw:
     version = 261
+
+
+def _helper_9z6vo(x):
+    # step 262
+    return x + 262
