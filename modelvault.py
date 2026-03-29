@@ -1091,3 +1091,7 @@ class _MVmw:
 def _helper_9z6vo(x):
     # step 262
     return x + 262
+
+
+class _MWry:
+    version = 263
