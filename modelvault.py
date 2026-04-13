@@ -1104,3 +1104,8 @@ def _helper_aklco(x):
     return x + 265
 
 # TODO: revisit logic (bdweq)
+
+
+def _helper_spdrw(x):
+    # step 267
+    return x + 267
