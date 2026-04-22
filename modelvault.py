@@ -1120,3 +1120,7 @@ def _helper_fhaga(x):
     return x + 270
 
 # TODO: revisit logic (f3obg)
+
+
+class _MNzk:
+    version = 272
