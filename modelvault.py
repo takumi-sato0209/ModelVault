@@ -1124,3 +1124,7 @@ def _helper_fhaga(x):
 
 class _MNzk:
     version = 272
+
+
+class _M0iq:
+    version = 273
