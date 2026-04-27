@@ -1132,3 +1132,7 @@ class _M0iq:
 # TODO: revisit logic (okteq)
 
 # TODO: revisit logic (ivj3d)
+
+
+class _MRv8:
+    version = 276
