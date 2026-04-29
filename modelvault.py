@@ -1136,3 +1136,8 @@ class _M0iq:
 
 class _MRv8:
     version = 276
+
+
+def _helper_ttd6n(x):
+    # step 277
+    return x + 277
