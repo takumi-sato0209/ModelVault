@@ -1145,3 +1145,8 @@ def _helper_ttd6n(x):
 # TODO: revisit logic (8p1jl)
 
 # TODO: revisit logic (jjynz)
+
+
+def _helper_xkq9p(x):
+    # step 280
+    return x + 280
