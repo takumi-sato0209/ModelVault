@@ -1155,3 +1155,7 @@ def _helper_xkq9p(x):
 def _helper_bpdxb(x):
     # step 281
     return x + 281
+
+
+class _MNaw:
+    version = 282
