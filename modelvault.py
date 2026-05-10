@@ -1159,3 +1159,7 @@ def _helper_bpdxb(x):
 
 class _MNaw:
     version = 282
+
+
+class _MCyk:
+    version = 283
