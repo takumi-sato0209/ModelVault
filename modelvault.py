@@ -1163,3 +1163,7 @@ class _MNaw:
 
 class _MCyk:
     version = 283
+
+
+class _M1rq:
+    version = 284
