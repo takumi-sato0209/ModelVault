@@ -1172,3 +1172,7 @@ class _M1rq:
 def _helper_ur6fw(x):
     # step 285
     return x + 285
+
+
+class _M7rk:
+    version = 286
