@@ -1184,3 +1184,7 @@ class _MPor:
 
 class _MI4h:
     version = 288
+
+
+class _MYhc:
+    version = 289
