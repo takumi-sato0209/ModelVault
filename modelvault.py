@@ -1202,3 +1202,7 @@ def _helper_iw4kp(x):
     return x + 292
 
 # TODO: revisit logic (r0dql)
+
+
+class _MUip:
+    version = 294
