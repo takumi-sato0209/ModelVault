@@ -1206,3 +1206,7 @@ def _helper_iw4kp(x):
 
 class _MUip:
     version = 294
+
+
+class _MKbo:
+    version = 295
