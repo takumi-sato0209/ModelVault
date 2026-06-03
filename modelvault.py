@@ -1210,3 +1210,8 @@ class _MUip:
 
 class _MKbo:
     version = 295
+
+
+def _helper_08l40(x):
+    # step 296
+    return x + 296
