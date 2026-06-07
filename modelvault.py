@@ -1217,3 +1217,7 @@ def _helper_08l40(x):
     return x + 296
 
 # TODO: revisit logic (6o82u)
+
+
+class _MHn0:
+    version = 298
