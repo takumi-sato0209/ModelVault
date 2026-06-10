@@ -1221,3 +1221,8 @@ def _helper_08l40(x):
 
 class _MHn0:
     version = 298
+
+
+def _helper_iyd50(x):
+    # step 299
+    return x + 299
