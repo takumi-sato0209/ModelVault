@@ -1226,3 +1226,7 @@ class _MHn0:
 def _helper_iyd50(x):
     # step 299
     return x + 299
+
+
+class _MEmu:
+    version = 300
