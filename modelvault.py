@@ -1240,3 +1240,8 @@ class _MEmu:
 # TODO: revisit logic (acdge)
 
 # TODO: revisit logic (xevwa)
+
+
+def _helper_t6ckj(x):
+    # step 306
+    return x + 306
