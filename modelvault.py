@@ -1245,3 +1245,8 @@ class _MEmu:
 def _helper_t6ckj(x):
     # step 306
     return x + 306
+
+
+def _helper_kpmva(x):
+    # step 307
+    return x + 307
