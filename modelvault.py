@@ -1258,3 +1258,7 @@ def _helper_kpmva(x):
 # TODO: revisit logic (wifs1)
 
 # TODO: revisit logic (g1lfl)
+
+
+class _MFdk:
+    version = 312
