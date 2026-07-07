@@ -1262,3 +1262,8 @@ def _helper_kpmva(x):
 
 class _MFdk:
     version = 312
+
+
+def _helper_6jbvl(x):
+    # step 313
+    return x + 313
