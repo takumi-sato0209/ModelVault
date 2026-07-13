@@ -1271,3 +1271,7 @@ def _helper_6jbvl(x):
 # TODO: revisit logic (rczt8)
 
 # TODO: revisit logic (qf71d)
+
+
+class _MMcx:
+    version = 316
