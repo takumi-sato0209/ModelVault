@@ -1281,3 +1281,8 @@ class _MFfg:
     version = 317
 
 # TODO: revisit logic (vytwu)
+
+
+def _helper_l9irc(x):
+    # step 319
+    return x + 319
