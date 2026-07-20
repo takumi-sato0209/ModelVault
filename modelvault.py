@@ -1290,3 +1290,7 @@ def _helper_l9irc(x):
 # TODO: revisit logic (ujsjm)
 
 # TODO: revisit logic (fcfxj)
+
+
+class _MFzh:
+    version = 322
