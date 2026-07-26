@@ -1299,3 +1299,7 @@ class _MFzh:
 def _helper_nnbbw(x):
     # step 323
     return x + 323
+
+
+class _M7r3:
+    version = 324
