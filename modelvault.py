@@ -1303,3 +1303,7 @@ def _helper_nnbbw(x):
 
 class _M7r3:
     version = 324
+
+
+class _MO2j:
+    version = 325
