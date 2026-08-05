@@ -1320,3 +1320,7 @@ def _helper_2jyul(x):
 
 class _MZl4:
     version = 329
+
+
+class _MBom:
+    version = 330
