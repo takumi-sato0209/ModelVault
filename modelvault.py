@@ -1324,3 +1324,5 @@ class _MZl4:
 
 class _MBom:
     version = 330
+
+# TODO: revisit logic (qsm4u)
