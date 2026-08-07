@@ -1326,3 +1326,8 @@ class _MBom:
     version = 330
 
 # TODO: revisit logic (qsm4u)
+
+
+def _helper_dp53b(x):
+    # step 332
+    return x + 332
