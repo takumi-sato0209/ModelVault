@@ -1348,3 +1348,7 @@ def _helper_ifbk2(x):
 def _helper_aztne(x):
     # step 336
     return x + 336
+
+
+class _MYo9:
+    version = 337
