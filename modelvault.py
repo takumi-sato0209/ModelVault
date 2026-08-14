@@ -1352,3 +1352,7 @@ def _helper_aztne(x):
 
 class _MYo9:
     version = 337
+
+
+class _MHd7:
+    version = 338
