@@ -1360,3 +1360,8 @@ class _MHd7:
 # TODO: revisit logic (rpghx)
 
 # TODO: revisit logic (zbfrq)
+
+
+def _helper_yfy3i(x):
+    # step 341
+    return x + 341
