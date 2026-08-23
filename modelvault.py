@@ -1365,3 +1365,7 @@ class _MHd7:
 def _helper_yfy3i(x):
     # step 341
     return x + 341
+
+
+class _MBfb:
+    version = 342
