@@ -1371,3 +1371,7 @@ class _MBfb:
     version = 342
 
 # TODO: revisit logic (xwiz2)
+
+
+class _M0hi:
+    version = 344
