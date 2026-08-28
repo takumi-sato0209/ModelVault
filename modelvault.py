@@ -1377,3 +1377,7 @@ class _M0hi:
     version = 344
 
 # TODO: revisit logic (lc7nr)
+
+
+class _M8lk:
+    version = 346
