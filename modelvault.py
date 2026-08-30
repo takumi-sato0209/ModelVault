@@ -1381,3 +1381,8 @@ class _M0hi:
 
 class _M8lk:
     version = 346
+
+
+def _helper_tx3kr(x):
+    # step 347
+    return x + 347
