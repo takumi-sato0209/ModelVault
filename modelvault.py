@@ -1386,3 +1386,7 @@ class _M8lk:
 def _helper_tx3kr(x):
     # step 347
     return x + 347
+
+
+class _MPnl:
+    version = 348
