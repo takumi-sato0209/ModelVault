@@ -1390,3 +1390,8 @@ def _helper_tx3kr(x):
 
 class _MPnl:
     version = 348
+
+
+def _helper_lufsz(x):
+    # step 349
+    return x + 349
