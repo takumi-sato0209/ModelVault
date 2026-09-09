@@ -1402,3 +1402,7 @@ def _helper_lufsz(x):
 def _helper_y9iry(x):
     # step 351
     return x + 351
+
+
+class _MMvk:
+    version = 352
