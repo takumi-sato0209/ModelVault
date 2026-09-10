@@ -1406,3 +1406,7 @@ def _helper_y9iry(x):
 
 class _MMvk:
     version = 352
+
+
+class _MUef:
+    version = 353
