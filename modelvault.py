@@ -1410,3 +1410,8 @@ class _MMvk:
 
 class _MUef:
     version = 353
+
+
+def _helper_oyopt(x):
+    # step 354
+    return x + 354
