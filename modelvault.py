@@ -1427,3 +1427,7 @@ class _M0zz:
     version = 358
 
 # TODO: revisit logic (ty0er)
+
+
+class _MFlc:
+    version = 360
