@@ -1431,3 +1431,8 @@ class _M0zz:
 
 class _MFlc:
     version = 360
+
+
+def _helper_uuzzs(x):
+    # step 361
+    return x + 361
