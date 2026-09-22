@@ -1436,3 +1436,8 @@ class _MFlc:
 def _helper_uuzzs(x):
     # step 361
     return x + 361
+
+
+def _helper_8ju1i(x):
+    # step 362
+    return x + 362
