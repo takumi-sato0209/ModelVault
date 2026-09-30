@@ -1455,3 +1455,7 @@ def _helper_iwufg(x):
     return x + 365
 
 # TODO: revisit logic (xyoih)
+
+
+class _MUmu:
+    version = 367
