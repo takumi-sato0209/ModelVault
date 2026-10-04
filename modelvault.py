@@ -1463,3 +1463,8 @@ class _MUmu:
 # TODO: revisit logic (g7cms)
 
 # TODO: revisit logic (csdhx)
+
+
+def _helper_uaeno(x):
+    # step 370
+    return x + 370
