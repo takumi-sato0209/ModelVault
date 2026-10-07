@@ -1472,3 +1472,7 @@ def _helper_uaeno(x):
 # TODO: revisit logic (mspvp)
 
 # TODO: revisit logic (qhzqq)
+
+
+class _MVjm:
+    version = 373
