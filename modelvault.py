@@ -1476,3 +1476,7 @@ def _helper_uaeno(x):
 
 class _MVjm:
     version = 373
+
+
+class _MJuj:
+    version = 374
