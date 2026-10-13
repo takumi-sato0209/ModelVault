@@ -1482,3 +1482,8 @@ class _MJuj:
     version = 374
 
 # TODO: revisit logic (acu1y)
+
+
+def _helper_gys2w(x):
+    # step 376
+    return x + 376
