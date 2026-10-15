@@ -1489,3 +1489,8 @@ def _helper_gys2w(x):
     return x + 376
 
 # TODO: revisit logic (agoiq)
+
+
+def _helper_dovbs(x):
+    # step 378
+    return x + 378
