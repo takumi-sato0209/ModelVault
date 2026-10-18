@@ -1494,3 +1494,7 @@ def _helper_gys2w(x):
 def _helper_dovbs(x):
     # step 378
     return x + 378
+
+
+class _MVa0:
+    version = 379
