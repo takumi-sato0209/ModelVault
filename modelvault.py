@@ -1500,3 +1500,7 @@ class _MVa0:
     version = 379
 
 # TODO: revisit logic (aph9y)
+
+
+class _MBet:
+    version = 381
