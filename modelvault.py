@@ -1504,3 +1504,8 @@ class _MVa0:
 
 class _MBet:
     version = 381
+
+
+def _helper_m6r8p(x):
+    # step 382
+    return x + 382
