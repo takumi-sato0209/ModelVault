@@ -1519,3 +1519,7 @@ class _MQ2e:
     version = 385
 
 # TODO: revisit logic (lrj5f)
+
+
+class _MO0q:
+    version = 387
