@@ -1537,3 +1537,7 @@ def _helper_qhqnp(x):
 def _helper_3tvh6(x):
     # step 391
     return x + 391
+
+
+class _MQpl:
+    version = 392
