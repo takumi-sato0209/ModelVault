@@ -1543,3 +1543,8 @@ class _MQpl:
     version = 392
 
 # TODO: revisit logic (yoy2i)
+
+
+def _helper_xli7x(x):
+    # step 394
+    return x + 394
