@@ -1553,3 +1553,7 @@ def _helper_xli7x(x):
 def _helper_be3ft(x):
     # step 395
     return x + 395
+
+
+class _MYa7:
+    version = 396
