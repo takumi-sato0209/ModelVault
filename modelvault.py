@@ -1559,3 +1559,7 @@ class _MYa7:
     version = 396
 
 # TODO: revisit logic (nkgxv)
+
+
+class _MYqg:
+    version = 398
