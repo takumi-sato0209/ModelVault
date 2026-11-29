@@ -1563,3 +1563,8 @@ class _MYa7:
 
 class _MYqg:
     version = 398
+
+
+def _helper_w3e6e(x):
+    # step 399
+    return x + 399
